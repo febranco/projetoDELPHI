@@ -1,0 +1,72 @@
+object FrmVendas: TFrmVendas
+  Left = 0
+  Top = 0
+  Caption = 'Vendas'
+  ClientHeight = 500
+  ClientWidth = 752
+  Color = clMenuHighlight
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object PnlTopo: TPanel
+    Left = 0
+    Top = 0
+    Width = 752
+    Height = 73
+    Align = alTop
+    Color = clCream
+    ParentBackground = False
+    TabOrder = 0
+  end
+  object PnlGrid: TPanel
+    Left = 0
+    Top = 73
+    Width = 169
+    Height = 427
+    Align = alLeft
+    TabOrder = 1
+    object DBGrid1: TDBGrid
+      Left = 1
+      Top = 1
+      Width = 399
+      Height = 425
+      Align = alLeft
+      TabOrder = 0
+      TitleFont.Charset = DEFAULT_CHARSET
+      TitleFont.Color = clWindowText
+      TitleFont.Height = -11
+      TitleFont.Name = 'Tahoma'
+      TitleFont.Style = []
+    end
+  end
+  object pnlDireito: TPanel
+    Left = 567
+    Top = 73
+    Width = 185
+    Height = 427
+    Align = alRight
+    Color = clMedGray
+    ParentBackground = False
+    TabOrder = 2
+    ExplicitLeft = 480
+    ExplicitTop = 224
+    ExplicitHeight = 41
+  end
+  object TPanel
+    Left = 169
+    Top = 73
+    Width = 398
+    Height = 427
+    Align = alClient
+    TabOrder = 3
+    ExplicitLeft = 224
+    ExplicitTop = 288
+    ExplicitWidth = 185
+    ExplicitHeight = 41
+  end
+end

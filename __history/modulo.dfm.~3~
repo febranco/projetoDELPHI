@@ -1,0 +1,29 @@
+object dm: Tdm
+  OldCreateOrder = False
+  Height = 525
+  Width = 726
+  object FDPhysMySQLDriverLink1: TFDPhysMySQLDriverLink
+    VendorLib = 'C:\xampp\mysql\lib\libmysql.dll'
+    Left = 584
+    Top = 80
+  end
+  object tb_Cargos: TFDTable
+    Left = 48
+    Top = 192
+  end
+  object query_cargos: TFDQuery
+    SQL.Strings = (
+      'select * from cargos')
+    Left = 40
+    Top = 328
+  end
+  object fd: TFDConnection
+    Params.Strings = (
+      'Database=pdv'
+      'DriverID=MySQL'
+      'User_Name=root')
+    Connected = True
+    Left = 56
+    Top = 64
+  end
+end

@@ -1,0 +1,29 @@
+unit funcionarios;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Mask, Vcl.StdCtrls;
+
+type
+  TFrmfuncionario = class(TForm)
+    Edit1: TEdit;
+    RadioButton1: TRadioButton;
+    RadioButton2: TRadioButton;
+    txtcpf: TMaskEdit;
+    Buscar: TLabel;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Frmfuncionario: TFrmfuncionario;
+
+implementation
+
+{$R *.dfm}
+
+end.

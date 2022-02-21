@@ -1,0 +1,23 @@
+program PDV;
+
+uses
+  Vcl.Forms,
+  login in 'login.pas' {FrmLogin},
+  Menu in 'Menu.pas' {FrmMenu},
+  usuarios in 'usuarios.pas' {Frmusuario},
+  funcionarios in 'funcionarios.pas' {Frmfuncionarios},
+  cargos in 'cargos.pas' {FrmCargos};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrmLogin, FrmLogin);
+  Application.CreateForm(TFrmMenu, FrmMenu);
+  Application.CreateForm(TFrmusuario, Frmusuario);
+  Application.CreateForm(TFrmfuncionarios, Frmfuncionarios);
+  Application.CreateForm(TFrmCargos, FrmCargos);
+  Application.Run;
+
+end.

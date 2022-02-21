@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/13 16:34:28.000.171,=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/13 16:39:45.000.690,=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/13 16:40:32.000.517,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\menuPrincipal.dfm</Transaction>
+    <Transaction>2022/02/13 16:40:32.000.517,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\menuPrincipal.pas</Transaction>
+    <Transaction>2022/02/13 16:40:39.000.346,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV.dproj</Transaction>
+    <Transaction>2022/02/13 16:44:11.000.030,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\menuPrincipal.pas=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Login.pas</Transaction>
+    <Transaction>2022/02/13 16:44:11.000.030,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\menuPrincipal.dfm=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Login.dfm</Transaction>
+    <Transaction>2022/02/13 16:44:11.000.030,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Login.dfm=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\menuPrincipal.dfm</Transaction>
+    <Transaction>2022/02/13 16:44:11.000.030,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Login.pas=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\menuPrincipal.pas</Transaction>
+    <Transaction>2022/02/13 16:44:23.000.333,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\menuPrincipal.pas=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\login.pas</Transaction>
+    <Transaction>2022/02/13 16:44:23.000.333,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\menuPrincipal.dfm=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\login.dfm</Transaction>
+    <Transaction>2022/02/13 16:44:23.000.313,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\login.pas=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\menuPrincipal.pas</Transaction>
+    <Transaction>2022/02/13 16:44:23.000.313,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\login.dfm=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\menuPrincipal.dfm</Transaction>
+    <Transaction>2022/02/13 16:44:46.000.381,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\login.dfm=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\menuPrincipal.dfm</Transaction>
+    <Transaction>2022/02/13 16:44:46.000.381,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\login.pas=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\menuPrincipal.pas</Transaction>
+    <Transaction>2022/02/13 17:02:32.000.386,=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.pas</Transaction>
+    <Transaction>2022/02/13 17:03:41.000.636,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\MenuPrincipal.pas=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.pas</Transaction>
+    <Transaction>2022/02/13 17:03:41.000.636,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\MenuPrincipal.dfm=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.dfm</Transaction>
+    <Transaction>2022/02/13 17:05:33.000.672,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Menu.dfm=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\MenuPrincipal.dfm</Transaction>
+    <Transaction>2022/02/13 17:05:33.000.672,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Menu.pas=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\MenuPrincipal.pas</Transaction>
+    <Transaction>2022/02/13 17:20:31.000.430,=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.pas</Transaction>
+    <Transaction>2022/02/13 17:21:01.000.195,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Cadastro\usuarios.dfm=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.dfm</Transaction>
+    <Transaction>2022/02/13 17:21:01.000.195,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Cadastro\usuarios.pas=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.pas</Transaction>
+    <Transaction>2022/02/13 17:47:46.000.601,=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.pas</Transaction>
+    <Transaction>2022/02/13 17:48:05.000.648,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\funcionarios.dfm=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.dfm</Transaction>
+    <Transaction>2022/02/13 17:48:05.000.648,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\funcionarios.pas=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.pas</Transaction>
+    <Transaction>2022/02/13 19:02:01.000.056,=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.pas</Transaction>
+    <Transaction>2022/02/13 19:02:16.000.432,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\cargos.pas=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.pas</Transaction>
+    <Transaction>2022/02/13 19:02:16.000.432,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\cargos.dfm=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.dfm</Transaction>
+    <Transaction>2022/02/13 19:21:30.000.143,=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.pas</Transaction>
+    <Transaction>2022/02/13 19:22:05.000.378,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\modulo.dfm=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.dfm</Transaction>
+    <Transaction>2022/02/13 19:22:05.000.378,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\modulo.pas=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.pas</Transaction>
+    <Transaction>2022/02/20 17:56:17.000.605,=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.pas</Transaction>
+    <Transaction>2022/02/20 17:56:26.000.105,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\vendas.pas=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.pas</Transaction>
+    <Transaction>2022/02/20 17:56:26.000.105,C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\vendas.dfm=C:\Users\felipe\Documents\Embarcadero\Studio\Projects\PDV\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

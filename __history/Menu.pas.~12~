@@ -1,0 +1,53 @@
+unit Menu;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus;
+
+type
+  TFrmMenu = class(TForm)
+    MainMenu1: TMainMenu;
+    Cadastro1: TMenuItem;
+    Cadastro2: TMenuItem;
+    fornecedor1: TMenuItem;
+    fornecedor2: TMenuItem;
+    funcionario1: TMenuItem;
+    funcionario2: TMenuItem;
+    Movimentao1: TMenuItem;
+    Movimentao2: TMenuItem;
+    Sair1: TMenuItem;
+    procedure Cadastro2Click(Sender: TObject);
+    procedure funcionario1Click(Sender: TObject);
+
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FrmMenu: TFrmMenu;
+
+implementation
+
+{$R *.dfm}
+
+uses usuarios, funcionarios;
+
+
+procedure TFrmMenu.Cadastro2Click(Sender: TObject);
+begin
+    Frmusuario := TFrmusuario.Create(self);
+    Frmusuario.ShowModal;
+
+end;
+
+procedure TFrmMenu.funcionario1Click(Sender: TObject);
+begin
+    Frmfuncionario := TFrmfuncionario.Create(self);
+    Frmfuncionario.ShowModal;
+end;
+
+end.
